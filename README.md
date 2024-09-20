@@ -4,7 +4,7 @@ This is a Duplicator plugin backup file of the new COIL Charter School official 
 
 You can find the current live website [here](https://coilk12.net/).
 
-This website was developed from October 2022 to September 2024 as a volunteer project for more than 200 hours.
+This website was developed from October 2022 to August 2024 as a volunteer project for more than 200 hours.
 
 The platform is built on WordPress, based on the Twenty Twenty-Three theme. The webpage layout and design were first created as mockups in Photoshop, and then implemented as custom pages in WordPress.
 
