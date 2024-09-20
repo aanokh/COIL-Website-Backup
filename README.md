@@ -8,7 +8,7 @@ This website was developed from October 2022 to September 2024 as a volunteer pr
 
 The platform is built on WordPress, based on the Twenty Twenty-Three theme. The webpage layout and design were first created as mockups in Photoshop, and then implemented as custom pages in WordPress.
 
-Further features are implemented through custom css code as well as WordPress community plugins including Duplicator, Sticky Menu, Otter Blocks and Simple Calendar.
+Further features are implemented through custom css code, as well as WordPress community plugins such as Duplicator, Sticky Menu, Otter Blocks and Simple Calendar.
 
 Other steps in the project's development include creating custom logos, revising the sitemap structure, and deploying and maintaining the final product on GoDaddy.
 
